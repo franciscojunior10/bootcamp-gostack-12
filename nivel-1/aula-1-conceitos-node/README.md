@@ -44,7 +44,6 @@ $~ cd aula-1-conceitos-node
 $~ yarn
 $~ yarn dev
 ```
-...
 
 ## Como contribuir 🤔:
 
@@ -55,7 +54,7 @@ $~ yarn dev
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :memo: Licença
+## Licença :memo::
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../../LICENSE) para mais detalhes.
 
