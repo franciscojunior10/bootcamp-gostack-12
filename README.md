@@ -10,11 +10,11 @@
 ## Níveis 🚀:
 
 ```bash
-- Nível 1 :heavy_check_mark:
-- Nível 2 :construction:
-- Nível 3 :construction:
-- Nível 4 :construction:
-- Nível 5 :construction:
+- Nível 1 ✅
+- Nível 2 🚧
+- Nível 3 🚧
+- Nível 4 🚧
+- Nível 5 🚧
 ```
 
 ## Como contribuir 🤔:
