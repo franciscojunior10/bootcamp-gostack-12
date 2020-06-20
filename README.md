@@ -9,13 +9,21 @@
 
 ## Níveis 🚀:
 
-```bash
-- Nível 1 ✅
-- Nível 2 🚧
-- Nível 3 🚧
-- Nível 4 🚧
-- Nível 5 🚧
-```
+
+### Nível 1 :heavy_check_mark:
+   - [aula-1-conceitos-node](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-1-conceitos-node) :heavy_check_mark:
+   - [aula-2-conceitos-reactjs](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-2-conceitos-reactjs) :heavy_check_mark:
+   - [aula-3-conceitos-reactnavite](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-3-conceitos-reactnavite) :heavy_check_mark:
+   - [aula-4-typescript](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-4-typescript) :heavy_check_mark:
+
+### Nível 2 :construction:
+
+### Nível 3 :construction:
+
+### Nível 4 :construction:
+
+### Nível 5 :construction:
+
 
 ## Como contribuir 🤔:
 
