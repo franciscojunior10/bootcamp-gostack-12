@@ -16,7 +16,7 @@
    - [aula-3-conceitos-reactnavite](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-3-conceitos-reactnavite) :heavy_check_mark:
    - [aula-4-typescript](https://github.com/franciscojunior10/bootcamp-gostack-12/tree/master/nivel-1/aula-4-typescript) :heavy_check_mark:
 
-### Para melhor organização dos repositórios, os próximos nívíes vou desenvolver em repositórios dedicados pra eles:
+### Para melhor organização dos repositórios, os próximos níveis vou desenvolver em repositórios dedicados pra eles :warning::
 
 - Aplicação [gobarber-api](https://github.com/franciscojunior10/gobarber-api):barber:.
 
