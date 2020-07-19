@@ -20,6 +20,8 @@
 
 - Aplicação [gobarber-api](https://github.com/franciscojunior10/gobarber-api):barber:.
 
+- Aplicação [gobarber-web](https://github.com/franciscojunior10/gobarber-web):barber:.
+
 ## Como contribuir 🤔:
 
 - Faça um fork desse repositório;
